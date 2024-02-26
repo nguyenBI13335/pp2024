@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1 
-* Student ID: Not-Vietnamese
+* Student Name: BUI CHINH NGUYEN
+* Student ID: 22BI13335
 
